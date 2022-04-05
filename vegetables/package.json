@@ -1,0 +1,15 @@
+{
+  "name": "vegetables",
+  "version": "1.0.0",
+  "description": "Vegetables",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artur",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.0.1",
+    "mongoose": "^5.13.3"
+  }
+}
